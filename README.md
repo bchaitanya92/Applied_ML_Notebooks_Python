@@ -108,7 +108,7 @@ This repository covers a variety of essential machine learning tasks and models:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/Applied_ML_Notebooks_Python.git
+    git clone https://github.com/bchaitanya92/Applied_ML_Notebooks_Python.git
     cd Applied_ML_Notebooks_Python
     ```
 
